@@ -1,0 +1,26 @@
+package pojo;
+
+import java.awt.List;
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+import java.util.ArrayList;
+
+public class NetJavaSession {
+	public static String getSaveObjectSql(Object object){
+		String sql = "inset into ";
+		Class class1 = object.getClass();
+		Method[] methods = class1.getMethods();
+		Field[] fields = class1.getFields();
+		String cName = class1.getName();
+		String tableName = cName.substring(cName.lastIndexOf(".")+1, cName.length());
+		sql += tableName +"(";
+		List<String> mList = new ArrayList<String>();
+		List vList = new ArrayList();
+		for(Method method:methods){
+			
+		}
+		
+	}
+	
+
+}
