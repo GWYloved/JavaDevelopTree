@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="fengzhuang/src"/>
+	<classpathentry kind="src" path="fileOperate/src"/>
+	<classpathentry kind="src" path="pojo/src"/>
+	<classpathentry kind="src" path="SqlDemo/src"/>
+	<classpathentry kind="src" path="ThreadDemo/src"/>
+	<classpathentry kind="output" path="SqlDemo/bin"/>
+</classpath>
