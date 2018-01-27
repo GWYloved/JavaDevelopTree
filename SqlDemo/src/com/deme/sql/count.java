@@ -13,18 +13,18 @@ public class count {
 	public static void main(String [] args){
 		Map<String,String> keyMap = new HashMap<String,String>();
 		int keyIndex ;
-		System.out.println("ÊäÈëÓĞ¼¸¸öKeyÖµ(ÊäÈëÊı×Ö£¬·ñÔòÄ¬ÈÏÎª0)");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Ğ¼ï¿½ï¿½ï¿½KeyÖµ(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½ï¿½Îª0)");
 		Scanner scForKeyIndex=new Scanner(System.in);
 		keyIndex = scForKeyIndex.hasNextInt() ? scForKeyIndex.nextInt() : 0;
 //		System.out.println("keyIndex = "+keyIndex); // put keyIndex
 		if(keyIndex==0){
-			System.out.println("keyÓĞ0¸ö£¬¸Ã±íÎŞĞ§");
+			System.out.println("keyï¿½ï¿½0ï¿½ï¿½ï¿½ï¿½ï¿½Ã±ï¿½ï¿½ï¿½Ğ§");
 			return;
 		}
 		String [] key = new String [keyIndex];//default length + 1;
 		for (int i=0;i<=key.length-1;i++){//default length;
 			int id=i+1;
-			System.out.println("ÊäÈëµÚ"+id+"¸öKeyµÄÃû×Ö");
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½"+id+"ï¿½ï¿½Keyï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 			Scanner scForKeyName = new Scanner(System.in);
 			key[i]=scForKeyName.nextLine();
 		}
