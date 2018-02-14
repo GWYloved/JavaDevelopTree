@@ -38,9 +38,6 @@ public class Solution {
             if (l>max)max = l;
         }
         return max;
-
-
-
     }
     public static void main(String[] args) {
         int[] hash = new int[128];
