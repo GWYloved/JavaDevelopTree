@@ -43,5 +43,6 @@ public class Solution {
         int[] hash = new int[128];
 
         System.out.println(hash['a']);
+        System.out.println(16 & 0x1);
     }
 }
