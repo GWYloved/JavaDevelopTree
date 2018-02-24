@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReflaceDemo/ReflaceDemo.iml" filepath="$PROJECT_DIR$/ReflaceDemo/ReflaceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SqlDemo/SqlDemo.iml" filepath="$PROJECT_DIR$/SqlDemo/SqlDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/fengzhuang/fengzhuang.iml" filepath="$PROJECT_DIR$/fengzhuang/fengzhuang.iml" />
       <module fileurl="file://$PROJECT_DIR$/fileOperate/fileOperate.iml" filepath="$PROJECT_DIR$/fileOperate/fileOperate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/pojo/pojo.iml" filepath="$PROJECT_DIR$/pojo/pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketDemo/socketDemo.iml" filepath="$PROJECT_DIR$/socketDemo/socketDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketServer/socketServer.iml" filepath="$PROJECT_DIR$/socketServer/socketServer.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-stdlib-jdk7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-stdlib-jdk8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-stdlib-jdk8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-stdlib-jdk7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReflaceDemo/lib/kotlin-test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
